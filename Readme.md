@@ -1,7 +1,8 @@
 # 🎬 Movie Recommendation System
 
 A simple ML-powered web app that recommends movies based on your selection.
-
+## 📸  Preview
+![alt text](image.png)
 ## 🚀 Tech Stack
 - Python
 - Pandas
